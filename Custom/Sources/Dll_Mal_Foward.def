@@ -1,0 +1,3 @@
+LIBRARY "Dll_Legit"
+EXPORTS
+    RetStr=Dll_Legit1.RetStr @1
